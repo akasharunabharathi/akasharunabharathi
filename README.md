@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Akash, a sophomore in CS and Philosophy at the University of Illinois at Urbana-Champaign. I'm love Computer Vision, ML, and messing around with Raspberry Pis and Arduinos :)
 
 <!--
 **akasharunabharathi/akasharunabharathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
