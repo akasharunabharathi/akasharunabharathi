@@ -9,7 +9,7 @@ I'm Akash, a junior in CS and Philosophy at the University of Illinois at Urbana
 
 ![image](https://github.com/akasharunabharathi/akasharunabharathi/assets/90937878/ec111528-530b-4dae-b72f-53c0221e8c75)
 
-Played around with Poisson blending, basically.
+Played around with Poisson blending 👆 :)
 
 
 ### Harry, Hermione and the Polyjuice Potion
