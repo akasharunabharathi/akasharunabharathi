@@ -5,14 +5,14 @@ I'm Akash, a junior in CS and Philosophy at the University of Illinois at Urbana
 ## Some fun results from stuff I worked on in the last 3-4 months:
 
 
-### Doge-lisa
+### Doge-lisa: Poisson Blending for Fun
 
 ![image](https://github.com/akasharunabharathi/akasharunabharathi/assets/90937878/ec111528-530b-4dae-b72f-53c0221e8c75)
 
 Played around with Poisson blending 👆 :)
 
 
-### Harry, Hermione and the Polyjuice Potion
+### Harry, Hermione and the Polyjuice Potion: Image Processing in the Frequency Domain
 
 See Harry in the regular sized image and Hermione in the zoomed out version!
 
