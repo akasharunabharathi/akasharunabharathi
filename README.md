@@ -8,7 +8,7 @@ First, the projects.
 
 ### What am I currently working on?
 
-A couple things. I'm working on two independent LLM projects (more details coming soon), completing my MLOps Specialization, and am also working on the Harmful Brain Activity Classification Challenge on Kaggle. Will push some results from my first experiments soon!
+A couple things. I'm working on two independent LLM projects (more details coming soon), completing my Computational Neuroscience course on Coursera (AI needs to go back to being about the brain), and am also working on the BirdCLEF and the Protein Folding Challenges on Kaggle. Will push some results from my first experiments soon!
 
 ### Most-recently, I worked on training a classifier to distinguish between different subtypes of Ovarian Cancer. 
 
