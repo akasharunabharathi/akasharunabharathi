@@ -8,9 +8,9 @@ First, the projects.
 
 ### What am I currently working on?
 
-A couple things. I'm working on two independent LLM projects (more details coming soon), completing my Computational Neuroscience course on Coursera (AI needs to go back to being about the brain), and am also working on the BirdCLEF and the Protein Folding Challenges on Kaggle. Will push some results from my first experiments soon!
+A couple things. I'm working on two independent LLM projects (more details coming soon), completing my Computational Neuroscience course on Coursera (AI needs to go back to being about the brain), working on a few Kaggle competetion challenges. Will push some results from my first experiments soon! (Also doing research to simulate arbitrary environments for robot training, but that's a story for later.)
 
-### Most-recently, I worked on training a classifier to distinguish between different subtypes of Ovarian Cancer. 
+### A few months ago, I worked on training a classifier to distinguish between different subtypes of Ovarian Cancer. 
 
 ![image](https://github.com/akasharunabharathi/akasharunabharathi/assets/90937878/d20b838e-a554-4bd1-b2c8-7a53525213cb)
 
