@@ -1,6 +1,6 @@
 ### Hi there 👋! 
 
-I'm Akash, a junior in CS and Philosophy at the University of Illinois at Urbana-Champaign. I love Computer Vision, ML, and messing around with Raspberry Pis and Arduinos :)
+I'm Akash, a senior studying CS and Philosophy at the University of Illinois at Urbana-Champaign. I love Computer Vision, ML, and messing around with Raspberry Pis and Arduinos :)
 
 Here are results from some cool stuff I've worked on! Includes stuff I worked on out of curiosity and out of humor. Read on to know more!
 
@@ -8,7 +8,11 @@ First, the projects.
 
 ### What am I currently working on?
 
-A couple things. I'm working on two independent LLM projects (more details coming soon), completing my Computational Neuroscience course on Coursera (AI needs to go back to being about the brain), working on a few Kaggle competetion challenges. Will push some results from my first experiments soon! (Also doing research to simulate arbitrary environments for robot training, but that's a story for later.)
+A couple things. I'm working on two independent NLP/LLM projects (Filter and Sage Jr), learning molecular biolgy, computational genomics and how ML is applied to the same!
+
+### What am I good at?
+
+I'd say both full-stack and MLE. I've deployed both web apps built out of React, Next.js, FastAPI onto production on AWS, and built ML pipelines (mostly computer vision), tuned hyperparameters, explored using LoRA for my LLM projects, etc. Here's some cool stuff! (make sure your scroll all the way to the bottom 😁)
 
 ### A few months ago, I worked on training a classifier to distinguish between different subtypes of Ovarian Cancer. 
 
